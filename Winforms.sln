@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "System.Windows.Forms", "src
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "System.Windows.Forms.Tests", "src\System.Windows.Forms\tests\UnitTests\System.Windows.Forms.Tests.csproj", "{AB38E262-F206-4820-8F29-23C5F72A4A16}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.Private.Winforms", "pkg\Microsoft.Private.Winforms.csproj", "{F133342A-3040-4005-A2F0-7685AA7CB82D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.Private.Winforms", "pkg\Microsoft.Private.Winforms\Microsoft.Private.Winforms.csproj", "{F133342A-3040-4005-A2F0-7685AA7CB82D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "System.Windows.Forms.Design.Editors", "src\System.Windows.Forms.Design.Editors\src\System.Windows.Forms.Design.Editors.csproj", "{B50AC96F-2655-4687-A404-16DF51882CBC}"
 EndProject
